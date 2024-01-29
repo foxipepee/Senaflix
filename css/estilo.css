@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(darkblue ,darkviolet ,darkblue ,darkviolet ,darkblue);
+    font-family: "Poppins", sans-serif !important;
+    font-weight: 600;
+    font-style: normal;
+}
+.divisor{
+    height: 5rem;
+    margin: 1rem;
+}
+.contenedor{
+    display: flex;
+}
+.caja1{
+    margin: 1rem;
+}
+.caja2{
+    height: 5rem;
+    margin: 1rem;
+}
+.caja3{
+    height: 600px;
+}
+.carousel-item{
+    height: 600px;
+}
