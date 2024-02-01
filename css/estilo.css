@@ -10,10 +10,10 @@ body{
     font-style: normal;
 }
 .divisor{
-    height: 5rem;
     margin: 1rem;
 }
 .contenedor{
+    height: 900px;
     display: flex;
 }
 .caja1{
@@ -24,8 +24,6 @@ body{
     margin: 1rem;
 }
 .caja3{
-    height: 600px;
-}
-.carousel-item{
-    height: 600px;
+    display: flex;
+    justify-content: center;
 }
